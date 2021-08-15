@@ -14,6 +14,7 @@ The following datasets are used in this case brief:
 **3. Sequels Dataset 
 (Used for arriving at trilogy with longest runtime and engineering "isSequel" feature)**
 - Dobhal, P. (2020). Sequels. Retrieved from: https://data.world/priyankad0993/sequels
+    - moviescleaned.csv
 
 **4. IMDB Movie Reviews Dataset: Avengers Endgame Reviews (endgame.csv)
 (Used for topic modelling of Avengers: Endgame)**
