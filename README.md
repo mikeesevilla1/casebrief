@@ -16,11 +16,10 @@ The following datasets are used in this case brief:
 - Dobhal, P. (2020). Sequels. Retrieved from: https://data.world/priyankad0993/sequels
     - moviescleaned.csv
 
-**4. IMDB Movie Reviews Dataset: Avengers Endgame Reviews (endgame.csv)
-(Used for topic modelling of Avengers: Endgame)**
+**4. endgame.csv**  - (Used for topic modelling of Avengers: Endgame)
 - Pal, A et. al (2019). IMDB Movie Reviews Dataset. Retrieved from: https://ieee-dataport.org/open-access/imdb-movie-reviews-dataset
     - endgame.csv
 
-**5. forviz.csv** -
-[Dataset used for Dashboard](https://www.kaggle.com/mikeesevilla/imdb-data-for-dashboard)
+**5. forviz.csv** - (Processed dataset for dashboard)
+- https://www.kaggle.com/mikeesevilla/imdb-data-for-dashboard
   
