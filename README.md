@@ -1,5 +1,5 @@
 # casebrief
-IMDB case brief
+**IMDB Case Brief**
 
 The following datasets are used in this case brief:
 
