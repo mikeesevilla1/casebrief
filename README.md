@@ -22,5 +22,5 @@ The following datasets are used in this case brief:
     - endgame.csv
 
 **5. forviz.csv**
-- [Dataset used for Dashboard] https://www.kaggle.com/mikeesevilla/imdb-data-for-dashboard
+[Dataset used for Dashboard] https://www.kaggle.com/mikeesevilla/imdb-data-for-dashboard
   
