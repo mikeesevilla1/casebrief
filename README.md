@@ -7,6 +7,7 @@ The following datasets are used in this case brief:
 
 **2. train.csv - (Used for checking correlation of numVotes to box office earnings)**
 - The Movie Database (2019). TMDB Box Office Prediction . Retrieved from: https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=train.csv
+- Alternate link: https://www.kaggle.com/mikeesevilla/revenue
 
 **3. moviescleaned.csv - (Used for arriving at trilogy with longest runtime and engineering "isSequel" feature)**
 - Dobhal, P. (2020). Sequels. Retrieved from: https://data.world/priyankad0993/sequels
