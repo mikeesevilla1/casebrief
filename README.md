@@ -21,6 +21,6 @@ The following datasets are used in this case brief:
 - Pal, A et. al (2019). IMDB Movie Reviews Dataset. Retrieved from: https://ieee-dataport.org/open-access/imdb-movie-reviews-dataset
     - endgame.csv
 
-**5. forviz.csv**
+**5. forviz.csv** -
 [Dataset used for Dashboard](https://www.kaggle.com/mikeesevilla/imdb-data-for-dashboard)
   
