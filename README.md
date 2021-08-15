@@ -3,8 +3,7 @@ IMDB case brief
 
 The following datasets are used in this case brief:
 
-1**. From IMDB
-(Base datasets)**
+**1. From IMDB(Base datasets)**
 - Internet Movie Database (2021). IMDB Datasets. Retrieved from: https://datasets.imdbws.com
 
 
